@@ -1,0 +1,12 @@
+name: TFM
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - qutip
+  - matplotlib>=3.6
+  - numpy>=1.21
+  - pip
+  - python=3.11
+  - scipy>=1.8
